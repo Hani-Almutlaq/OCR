@@ -3,7 +3,7 @@ This OCR was my **internship project** at Saudi Aramco. The source code was avai
 # 🚀 Features
 - Extracts students data from historical transcript
 - Can work only on a specific transcript template
-# 🪄 Technologies Used
+# 🪄 Technologies
 - Python
 - PyCharm IDE
 - Tesseract OCR Engine
